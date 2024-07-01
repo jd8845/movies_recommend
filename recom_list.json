@@ -1,8 +1,8 @@
 {
   "user_id": "24D59hv1rFw",
   "recommendations": [
-    { "title": "Inception", "genre": "Sci-Fi" },
-    { "title": "The Dark Knight", "genre": "Action" },
-    { "title": "Interstellar", "genre": "Sci-Fi" }
+    { "title": "Головоломка 2", "genre": "семейный, комедия", "year": "2024" },
+    { "title": "Человек-паук: Через вселенные", "genre": "комедия, боевик, фантастика", "year": "2018" },
+    { "title": "Зверопой", "genre": "семейный, комедия", "year": "2016" }
   ]
 }
