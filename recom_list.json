@@ -2,7 +2,7 @@
   "user_id": "24D59hv1rFw",
   "user_email": "alex@example.com",
   "average_watch_time": 120, 
-  "last_watched_movies": "Душа",
+  "last_watched_movie": "Душа",
   "last_login_date": "2024-07-01",
   "most_watched_genres": ["comedy", "family"],
   "sub_package_info": {
