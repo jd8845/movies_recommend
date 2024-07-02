@@ -4,7 +4,7 @@
   "average_watch_time": 120, 
   "last_watched_movies": "Душа",
   "last_login_date": "2024-07-01",
-  "most_watched_genre": ["comedy", "family"],
+  "most_watched_genres": ["comedy", "family"],
   "sub_package_info": {
     "plan_name": "Premium",
     "start_date": "2023-06-01",
